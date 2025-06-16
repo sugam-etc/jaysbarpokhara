@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE = "http://localhost:5000/api/exhibitions";
+const API_BASE = "https://jaysbar-backend.onrender.com/api/exhibitions";
 
 // GET: Fetch all exhibitions
 export const getExhibitions = () => axios.get(API_BASE);
