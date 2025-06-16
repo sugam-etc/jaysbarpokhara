@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import logo from "../assets/logo.png";
+import logo from "../assets/logo.PNG";
 import { getExhibitionsForNav } from "../api/WhatsonService";
 const MobileNavLink = ({ onClick, href, children, className = "" }) => (
   <a
