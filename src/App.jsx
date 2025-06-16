@@ -19,7 +19,8 @@ import AlbumForm from "./pages/Gallery/AlbumForm";
 import BookingPage from "./pages/Booking";
 import ContactUs from "./pages/Contactus";
 
-export const API = "http://localhost:5000";
+export const API = "https://jaysbar-backend.onrender.com";
+// export const API = "http://localhost:5000";
 function App() {
   // Empty dependency array means this effect runs once on mount
 

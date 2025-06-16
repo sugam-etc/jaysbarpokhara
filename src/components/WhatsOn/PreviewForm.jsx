@@ -132,7 +132,7 @@ const WhatsOnForm = () => {
       }
 
       const response = await axios.post(
-        "http://localhost:5000/api/exhibitions",
+        "https://jaysbar-backend.onrender.com/api/exhibitions",
         formDataToSend,
         {
           headers: {

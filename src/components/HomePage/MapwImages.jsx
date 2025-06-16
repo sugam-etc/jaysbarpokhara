@@ -81,10 +81,10 @@ const MapwImages = () => {
                     <FiMapPin className="mt-1 mr-3 flex-shrink-0 text-white" />
                     <div>
                       <p className="text-white">
-                        74 Victoria St, London SW1E 6SQ, UK
+                        Between Street 14 & 15, Main Street, Lakeside
                       </p>
                       <p className="text-sm text-gray-400">
-                        Nearest tube: Victoria, St James' Park
+                        Nearest tube: Hallanchowk, Pokhara
                       </p>
                     </div>
                   </li>
@@ -98,7 +98,7 @@ const MapwImages = () => {
                   {/* Email */}
                   <li className="flex items-center">
                     <FiMail className="mt-1 mr-3 flex-shrink-0 text-white" />
-                    <span>booking@bam-karaokebox.com</span>
+                    <span>booking@jaysbarpokhara.com</span>
                   </li>
 
                   {/* Hours */}

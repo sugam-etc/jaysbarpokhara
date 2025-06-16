@@ -17,7 +17,7 @@ const WhatsOn = () => {
       <div className="container mx-auto px-4 sm:px-6">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-serif font-normal text-gray-900 mb-4">
-            What's on at BAM
+            What's on at Jay's Bar Pokhara
           </h2>
           <div className="w-20 h-px bg-gray-300 mx-auto" />
         </div>
