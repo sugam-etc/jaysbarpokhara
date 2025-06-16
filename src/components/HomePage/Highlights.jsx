@@ -21,7 +21,7 @@ const Highlights = () => {
     {
       title: "Gourmet Dining & Craft Cocktails",
       description:
-        "The BAM BAM Bar offers an exceptional culinary experience curated by our executive chef. Enjoy signature small plates, Asian-inspired cuisine, and creative cocktails designed to complement your karaoke experience. Our mixologists craft unique beverages using premium spirits and fresh ingredients.",
+        "Jays Bar offers an exceptional culinary experience curated by our executive chef. Enjoy signature small plates, Asian-inspired cuisine, and creative cocktails designed to complement your karaoke experience. Our mixologists craft unique beverages using premium spirits and fresh ingredients.",
       cta1: "Explore Our Menu",
       cta2: "Reserve a Table",
       image: highlights2,
@@ -43,7 +43,7 @@ const Highlights = () => {
           </h2>
           <div className="w-20 h-px bg-gray-300 mx-auto" />
           <p className="text-lg text-gray-700 max-w-3xl mx-auto mt-6">
-            Europe's largest karaoke venue featuring 22 private rooms,
+            Pokhara's largest karaoke venue featuring 2 private rooms,
             exceptional dining, and unforgettable entertainment
           </p>
         </div>
